@@ -1,38 +1,205 @@
 [{
-		"F_Team": "Khulna Tigers",
-		"S_Team": "Fortune Barishal",
-		"date": "Jan 21, 2022 02:00 PM",
-		"F_MatchType": "Match No: 01"
-	}, {
 		"F_Team": "Chattogram Challengers",
-		"S_Team": "Cumilla Warriors",
-		"date": "Jan 22, 2022 02:00 PM",
-		"F_MatchType": "Match No: 02"
-	}, {
-		"F_Team": "Khulna Tigers",
-		"S_Team": "Sylhet Sunrisers",
-		"date": "Jan 23, 2022 02:00 PM",
-		"F_MatchType": "Match No: 03"
-	}, {
-		"F_Team": "Sylhet Thunder",
 		"S_Team": "Fortune Barishal",
-		"date": "Jan 24, 2022 02:00 PM",
-		"F_MatchType": "Match No: 04"
+		"F_MatchType": "Match No: 1",
+		"date": "Jan 21, 1:30 PM"
+	},
+	{
+		"F_Team": "Khulna Tigers",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 2",
+		"date": "Fri, Jan 21, 6:30 PM"
+	},
+	{
+		"F_Team": "Cumilla Warriors",
+		"S_Team": "Sylhet Thunder",
+		"F_MatchType": "Match No: 3",
+		"date": "Sat, Jan 22, 12:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 4",
+		"date": "Sat, Jan 22, , 5:30 PM"
+	},
+	{
+		"F_Team": "Fortune Barishal",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 5",
+		"date": "Mon, Jan 24, 12:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Khulna Tigers",
+		"F_MatchType": "Match No: 6",
+		"date": "Mon, Jan 24, 5:30 PM"
+	},
+	{
+		"F_Team": "Sylhet Thunder",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 7 ",
+		"date": "Tue, Jan 25, 12:30 PM"
+	},
+	{
+		"F_Team": "Cumilla Warriors",
+		"S_Team": "Fortune Barishal",
+		"F_MatchType": "Match No: 8",
+		"date": "Tue, Jan 25, 5:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Khulna Tigers",
+		"F_MatchType": "Match No: 9",
+		"date": "Jan 28, 1:30 PM"
+	},
+	{
+		"F_Team": "Sylhet Thunder",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 10",
+		"date": "Jan 28, 6:30 PM"
+	},
+	{
+		"F_Team": "Khulna Tigers",
+		"S_Team": "Fortune Barishal",
+		"F_MatchType": "Match No: 11",
+		"date": "Jan 29, 12:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Sylhet Thunder",
+		"F_MatchType": "Match No: 12",
+		"date": "Jan 29, 5:30 PM"
 	},
 	{
 		"F_Team": "Chattogram Challengers",
 		"S_Team": "Cumilla Warriors",
-		"date": "Jan 26, 2022 02:00 PM",
-		"F_MatchType": "Match No: 05"
-	}, {
+		"F_MatchType": "Match No: 13",
+		"date": "Jan 31, 12:30 PM"
+	},
+	{
 		"F_Team": "Khulna Tigers",
 		"S_Team": "Fortune Barishal",
-		"date": "Jan 27, 2022 02:00 PM",
-		"F_MatchType": "Match No: 06"
-	}, {
+		"F_MatchType": "Match No: 14",
+		"date": "Jan 31, 5:30 PM"
+	},
+	{
+		"F_Team": "Cumilla Warriors",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 15",
+		"date": "Feb 1, 12:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Fortune Barishal",
+		"F_MatchType": "Match No: 16",
+		"date": "Feb 1, 5:30 PM"
+	},
+	{
+		"F_Team": "Khulna Tigers",
+		"S_Team": "Sylhet Thunder",
+		"F_MatchType": "Match No: 17",
+		"date": "Feb 3, 12:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Cumilla Warriors",
+		"F_MatchType": "Match No: 18",
+		"date": "Feb 3, 5:30 PM"
+	},
+	{
 		"F_Team": "Sylhet Thunder",
-		"S_Team": "Rajshahi Royals",
-		"date": "Jan 28, 2022 02:00 PM",
-		"F_MatchType": "Match No: 07"
+		"S_Team": "Fortune Barishal",
+		"F_MatchType": "Match No: 19",
+		"date": "Feb 4, 1:30 PM"
+	},
+	{
+		"F_Team": "Cumilla Warriors",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 20",
+		"date": "Feb 4, 6:30 PM"
+	},
+	{
+		"F_Team": "Cumilla Warriors",
+		"S_Team": "Fortune Barishal",
+		"F_MatchType": "Match No: 21",
+		"date": "Feb 7, 12:30 PM"
+	},
+	{
+		"F_Team": "Khulna Tigers",
+		"S_Team": "Sylhet Thunder",
+		"F_MatchType": "Match No: 22",
+		"date": "Feb 7, 5:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 23",
+		"date": "Feb 8, 12:30 PM"
+	},
+	{
+		"F_Team": "Sylhet Thunder",
+		"S_Team": "Fortune Barishal",
+		"F_MatchType": "Match No: 24",
+		"date": "Feb 8, 5:30 PM"
+	},
+	{
+		"F_Team": "Khulna Tigers",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 25",
+		"date": "Feb 9, 12:30 PM"
+	},
+	{
+		"F_Team": "Cumilla Warriors",
+		"S_Team": "Sylhet Thunder",
+		"F_MatchType": "Match No: 26",
+		"date": "Feb 9, 5:30 PM"
+	},
+	{
+		"F_Team": "Khulna Tigers",
+		"S_Team": "Cumilla Warriors",
+		"F_MatchType": "Match No: 27",
+		"date": "Feb 11, 1:30 PM"
+	},
+	{
+		"F_Team": "Fortune Barishal",
+		"S_Team": "Dhaka Platoon",
+		"F_MatchType": "Match No: 28",
+		"date": "Feb 11, 6:30 PM"
+	},
+	{
+		"F_Team": "Chattogram Challengers",
+		"S_Team": "Sylhet Thunder",
+		"F_MatchType": "Match No: 29",
+		"date": "Feb 12, 12:30 PM"
+	},
+	{
+		"F_Team": "Khulna Tigers",
+		"S_Team": "Cumilla Warriors",
+		"F_MatchType": "Match No: 30",
+		"date": "Feb 12, 5:30 PM"
+	},
+	{
+		"F_Team": "TBD",
+		"S_Team": "TBD",
+		"F_MatchType": "Play-off ·Match 31",
+		"date": "Feb 14, 12:30 PM"
+	},
+	{
+		"F_Team": "TBD",
+		"S_Team": "TBD",
+		"F_MatchType": "Play-off ·Match 32",
+		"date": "Feb 14, 5:30 PM"
+	},
+	{
+		"F_Team": "TBD",
+		"S_Team": "TBD",
+		"F_MatchType": "Play-off ·Match 33",
+		"date": "Feb 16, 5:30 PM"
+	},
+	{
+		"F_Team": "TBD",
+		"S_Team": "TBD",
+		"F_MatchType": "Final ·Match 34",
+		"date": "Feb 18, 6:30 PM"
 	}
 ]
